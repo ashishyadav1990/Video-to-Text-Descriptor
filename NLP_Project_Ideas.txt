@@ -1,0 +1,6 @@
+1. Calendar entry
+2. Video to text generation
+3. Machine Translation
+4. Language Comprehension
+
+http://cs.nyu.edu/courses/spring12/CSCI-GA.2590-001/Final_Project.html

@@ -1,0 +1,5 @@
+1. Go to caffe-recurrent/examples/s2vt
+2. Go to compute node by typing this command
+   qsub -I -X -l nodes=1:ppn=8,walltime=04:00:00
+3. run python framefc7_stream_text_to_hdf5_data.py
+
